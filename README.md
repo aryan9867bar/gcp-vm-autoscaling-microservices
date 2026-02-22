@@ -111,7 +111,7 @@ gsutil cp gs://<bucket-name>/assignment2microservices-0.0.1-SNAPSHOT.jar .
 java -jar assignment2microservices-0.0.1-SNAPSHOT.jar
 ```
 
-### Verification:
+### Verification
 
 ```bash
 
@@ -148,15 +148,11 @@ A detailed assignment report is included:
 
 ## 🎓 Learning Outcomes
 
-Practical experience with cloud virtualization
-
-Understanding of Managed Instance Groups
-
-Implementation of CPU-based auto scaling
-
-Secure VM deployment using IAM and firewall rules
-
-Hands-on exposure to cloud-native system design
+- Practical experience with cloud virtualization
+- Understanding of Managed Instance Groups
+- Implementation of CPU-based auto scaling
+- Secure VM deployment using IAM and firewall rules
+- Hands-on exposure to cloud-native system design
 
 ---
 
