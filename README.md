@@ -1,4 +1,4 @@
-# 📘 Virtualization and Cloud Computing Assignment  
+# 📘 Virtualization and Cloud Computing Assignment 2
 
 ---
 
@@ -142,7 +142,7 @@ assignment2-gcp-vm-autoscaling/
 ## 📄 Assignment Report (PDF)
 A detailed assignment report is included:
 
-📘 Click here to view the Assignment Report
+📘 [Click here to view the Assignment Report](Aryan Baranwal VCC Assignment 2.pdf)
 
 ---
 
