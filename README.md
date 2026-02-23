@@ -142,7 +142,7 @@ assignment2-gcp-vm-autoscaling/
 ## 📄 Assignment Report (PDF)
 A detailed assignment report is included:
 
-📘 [Click here to view the Assignment Report](Aryan Baranwal VCC Assignment 2.pdf)
+📘 [Click here to view the Assignment Report](Aryan%20Baranwal%20VCC%20Assignment%202.pdf)
 
 ---
 
